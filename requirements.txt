@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+gradio
+pinecone-client
+langchain-astradb
+pandas
+matplotlib
+seaborn
+kagglehub
